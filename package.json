@@ -1,7 +1,7 @@
 {
   "name": "codingame-contest-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter project for codingame.com contests",
   "scripts": {
     "start": "parcel ./src/Main.ts",
     "test": "jest",
